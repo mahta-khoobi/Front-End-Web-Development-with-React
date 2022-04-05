@@ -1,0 +1,15 @@
+{
+  "name": "coursera",
+  "version": "1.0.0",
+  "description": "react web development",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[A\u001b[Bhttps://github.com/mahta-khoobi/Front-End-Web-Development-with-React"
+  },
+  "author": "Mahta Khoobi",
+  "license": "ISC"
+}
