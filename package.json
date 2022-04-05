@@ -4,12 +4,17 @@
   "description": "react web development",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
     "url": "\u001b[A\u001b[Bhttps://github.com/mahta-khoobi/Front-End-Web-Development-with-React"
   },
   "author": "Mahta Khoobi",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
